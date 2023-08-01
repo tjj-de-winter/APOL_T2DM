@@ -4,6 +4,3 @@ We applied this combined datasets to shed light on the gene expression patterns 
 The merged dataset includes the following datasets: SMART-seq (Wang et al., GSE83139; and Xin et al., GSE81608) and SMART-seq2 (Enge et al. GSE81547; and Segerstolpe et al. E-MTAB-5061).
 
 The repository contains the scripts and jupyter notebooks for the generation of the dataset as well as gene expression analysis.
-
-
-seifnslifjlsekf
